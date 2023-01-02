@@ -1,0 +1,14 @@
+How to install Jforg in?
+1.1st creat ec2 instance with t2-medium and ad  all traffic to the network.
+2.open git bash write wget paste the url 
+3.tar -zvxf filename i.e. j-tab we will get the fill
+4.ls --> we can see the artifactory.
+5.cd arti..+tab enter
+6.ls enter
+7.cd app/ enter
+8.ls enter
+9.cd bin
+10.ls
+11. ./artifactoryctl enter
+12.go to instance copt the and paste the ip in url with 8082
+13 jfor will open put username -admin and password-password.
